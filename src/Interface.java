@@ -1,4 +1,5 @@
 
-public class Interface {
+public interface Interface {
 
+	public void interfaceMethod();
 }
